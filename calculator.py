@@ -1,6 +1,6 @@
 def welcome() :
 	print('''
-Welcome to calculator
+Welcome to calculator friend
 ''')
 
 welcome()
